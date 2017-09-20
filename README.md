@@ -1,3 +1,6 @@
+Changes:
+Port 8102:80
+
 # Welcome to Zammad
 
 Zammad is a web based open source helpdesk/ticket system with many features
